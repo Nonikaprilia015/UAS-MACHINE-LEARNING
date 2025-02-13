@@ -1,1 +1,3 @@
 # UAS-MACHINE-LEARNING
+Nonik Aprilia (20221020049)
+Dinda Salsabilla (20220120001)
